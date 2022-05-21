@@ -4,7 +4,6 @@
      the robustness of these methods😁
 - 🦾 I’m currently understanding vision Transformers, specifically for Image Segmentation (Segformer), thinking about possible ways to improve them.
      Moreover using to use Weights & Biases which turned out to be such a cool😎 tool for training my models & visualizing results!
-- 🦾 I’m currently understanding vision Transformers, specifically for Image Segmentation (Segformer), thinking about possible ways to improve them.
 - 🧑‍💻 I’m looking to collaborate with people who may have interesting research ideas and may wanna work together on it
 - 📫 How to reach me: www.linkedin.com/in/alberto-rodriguez-salgado PM
 
