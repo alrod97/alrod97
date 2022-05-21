@@ -1,4 +1,4 @@
- -👋 Hi, I’m @alrod97, Alberto Rodriguez, I am c Master student in Robotics,Cognition and Intelligence at the Technichal University of Munich
+ -👋 Hi, I’m @alrod97, Alberto Rodriguez, I am  Master student in Robotics,Cognition and Intelligence at the Technichal University of Munich
     (TUM) and I work part time at the Volkswagen Data Lab on Machine Learning & Computer Vision.
 - 👀 I’m interested in Machine Learning in the Computer Vision domain, specifically on image segmentation on autonomous vehicles datasets and
      the robustness of these methods😁
