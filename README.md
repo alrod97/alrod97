@@ -4,7 +4,8 @@
 
 * **1st author** with NVIDIA: [Channel Wise Feature Augmentation (CWFA)](https://arxiv.org/abs/2412.01941) on **Vision Transformers** for semantic segmentation
 * Interested in both **fundamental ML methods** (Transformers, LLMs, Computer Vision, Robustness) and **high-impact applied AI**
-* MSc Robotics, Cognition & Intelligence (TUM)
+* MSc Robotics, Cognition & Intelligence (Technical University of Munich)
+* Bsc Engineering Science (Technical University of Berlin)
 
 ### 🚀 Applied AI Projects
 
